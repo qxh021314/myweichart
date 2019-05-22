@@ -175,10 +175,6 @@
             <artifactId>xstream</artifactId>
             <version>1.4.9</version>
         </dependency>
-
-
-
-
         <dependency>
             <groupId>commons-httpclient</groupId>
             <artifactId>commons-httpclient</artifactId>
